@@ -26,7 +26,7 @@ The input matrix/data frame must have at least these four columns (header names 
 3. Reference sequence of the indel
 4. Alternate sequence of the indel
 
-Note that indels must be normalized, and that SNVs and/or MNPs are not allowed.
+Note that indels should be normalized, and that SNVs and/or MNVs are not allowed.
 
 
 ### Outputs
