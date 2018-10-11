@@ -26,7 +26,7 @@ The input matrix/data frame must have at least these four columns (header names 
 3. Reference sequence of the indel
 4. Alternate sequence of the indel
 
-Note that indels should be normalized, and that SNVs and/or MNVs are not allowed.
+Note that indels must be normalized, and that SNVs and/or MNVs are not allowed.
 
 
 ### Outputs
@@ -39,7 +39,7 @@ The indelsClassification function returns a list of two objects:
 
 ### Run instructions
 
-For a detailed explanation see the *indelsClassification.html* Rmarkdown document.
+For a detailed explanation see the *indelsClassification.html* R Markdown document.
 
 Briefly, in your R script:
 
