@@ -77,6 +77,6 @@ The script seems to work well and we constantly check its output when running it
 Bugs, comments and improvements can be send to *nadeu@clinic.ub.es*. They will be very much appreciated!
 
 
-### Aknowledgments
+### Acknowledgments
 
 I thank Francesco Maura for the time he invested in reviewing the output of this function as well as for his comments and suggestions.
