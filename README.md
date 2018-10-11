@@ -21,7 +21,7 @@ The following R libraries are required:
 
 The input matrix/data frame must have at least these four columns (header names can be anything):
 
-1. Chromosome: both annotations "1" and "chr1" are allowed
+1. Chromosome: both annotations ("1" or "chr1") are allowed
 2. Position of the indel
 3. Reference sequence of the indel
 4. Alternate sequence of the indel
