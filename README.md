@@ -65,7 +65,7 @@ out[[2]]
 
 ### Note
 
-The script seems to work well, but we constantly check it when running it on new samples/indels. Potential bugs will be corrected and improvements may be added. Feel free to use it and share it!
+The script seems to work well and we constantly check its output when running it on new indels. Potential bugs will be corrected and improvements may be added. Feel free to use it and share it!
 
 ### Bugs, comments or improvements
 
