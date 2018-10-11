@@ -4,6 +4,8 @@
 
 The indelsClassification R function performs the classification of small insertions and deletions (indels) in 84 classes following the criteria described in [The Repertoire of Mutational Signatures in Human Cancer](https://www.biorxiv.org/content/early/2018/05/15/322859) (Alexandrov *et al.*, bioRxiv 2018). An extra indel class has been added to account for "complex insertions/deletions" (see the *PCAWG7_indel_classification_2017_12_08_modified_by_FNadeu.xlsx* document for details).
 
+![alt text](https://github.com/ferrannadeu/indelsClassification/blob/master/indelsClassification.jpeg "indelsClassification output")
+
 
 ### Libraries
 
@@ -72,12 +74,3 @@ Bugs, comments and improvements might be send to *nadeu@clinic.ub.es*. They will
 ### Aknowledgments
 
 I appreciate to Francesco Maura the time he invested in reviewing the output of this function as well as for his comments and suggestions.
-
-
-
-
-
-
-
-
-
