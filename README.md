@@ -7,7 +7,7 @@ The indelsClassification R function performs the classification of small inserti
 ![alt text](https://github.com/ferrannadeu/indelsClassification/blob/master/indelsClassification.jpeg "indelsClassification output")
 
 
-### Libraries
+### Requirements
 
 The following R libraries are required:
 
@@ -15,6 +15,7 @@ The following R libraries are required:
 * BSgenome
 * BSgenome.Hsapiens.UCSC.hg19
 * Rsamtools
+
 
 ### Input
 
@@ -27,12 +28,14 @@ The input matrix/data frame must have at least these four columns (header names 
 
 Note that indels must be normalized, and that SNVs and/or MNPs are not allowed.
 
+
 ### Outputs
 
 The indelsClassification function returns a list of two objects:
 
 * Matrix with the 5' and 3' context of the indels and their classification (note that the nucleotide at 'position' is included both in the 5’ and 3’ context sequences)
 * Graphical representation of the classification
+
 
 ### Run instructions
 
@@ -63,13 +66,16 @@ out[[2]]
 # grid::grid.newpage() # run this in your R script to open a new page for the next plot
 ```
 
+
 ### Note
 
 The script seems to work well and we constantly check its output when running it on new indels. Potential bugs will be corrected and improvements may be added. Feel free to use it and share it!
 
+
 ### Bugs, comments and improvements
 
 Bugs, comments and improvements might be send to *nadeu@clinic.ub.es*. They will be very much appreciated!
+
 
 ### Aknowledgments
 
