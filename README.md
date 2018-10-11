@@ -69,7 +69,7 @@ Bugs, comments and improvements might be send to *nadeu@clinic.ub.es*. They will
 
 ### Aknowledgments
 
-I appreciate to Francesco Maura the time invested in reviewing the output of this function as well as for appropriate comments and suggestions.
+I appreciate to Francesco Maura the time he invested in reviewing the output of this function as well as for his comments and suggestions.
 
 
 
