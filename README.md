@@ -67,7 +67,7 @@ out[[2]]
 
 The script seems to work well and we constantly check its output when running it on new indels. Potential bugs will be corrected and improvements may be added. Feel free to use it and share it!
 
-### Bugs, comments or improvements
+### Bugs, comments and improvements
 
 Bugs, comments and improvements might be send to *nadeu@clinic.ub.es*. They will be very much appreciated!
 
