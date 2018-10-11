@@ -57,6 +57,8 @@ out <- indelsClassification(mat = INDELS)
 # check outputs
 head(out[[1]])
 out[[2]]
+
+# grid::grid.newpage() # run this in your R script to open a new page for the next plot
 ```
 
 ### Note
