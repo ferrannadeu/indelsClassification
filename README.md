@@ -74,7 +74,7 @@ The script seems to work well and we constantly check its output when running it
 
 ### Bugs, comments and improvements
 
-Bugs, comments and improvements can be send to *nadeu@clinic.ub.es*. They will be very much appreciated!
+Bugs, comments and improvements can be send to *nadeu@clinic.cat*. They will be very much appreciated!
 
 
 ### Acknowledgments
