@@ -57,17 +57,18 @@ source("indelsClassification.R")
 INDELS <- read.table("indelsClassification_toyExample.tsv", sep = "\t", header = T, stringsAsFactors = F) 
 
 # set display method
-pdf(NULL)
-# OR write to file
-# pdf(file=paste0('/path/to/my/output/image.pdf'), width = 15, height = 4)
+#pdf(file=paste0('/path/to/image.pdf'), width = 15, height = 4)
+#png(filename=paste0('/path/to/image.png'), width = 1500, height = 400, type=c("cairo-png"))
+pdf(NULL) # screen output
 
 # run the function
 out <- indelsClassification(mat = INDELS)
 while (!is.null(dev.list()))  dev.off()
 
 # check outputs
-# head(out[[1]])
-# out[[2]]
+head(out[[1]])
+out[[2]]
+
 # grid::grid.newpage() # run this in your R script to open a new page for the next plot
 ```
 
