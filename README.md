@@ -65,9 +65,9 @@ pdf(NULL)
 out <- indelsClassification(mat = INDELS)
 while (!is.null(dev.list()))  dev.off()
 
-## check outputs
+# check outputs
 # head(out[[1]])
-#out[[2]]
+# out[[2]]
 # grid::grid.newpage() # run this in your R script to open a new page for the next plot
 ```
 
