@@ -220,7 +220,7 @@ indelsClassification <- function(mat, classColumn=NULL, subClassColumn=NULL, rep
              rep("#E2E2EF", 1), rep("#B6B6D8", 2), rep("#8683BD", 3), rep("#61409B", 5),
              rep("#262626", 1))
     
-    pdf(NULL)
+    # pdf(NULL)
     dev.control(displaylist="enable")
     
     par(mar=c(4.1,1.1,4.1,0.1))
